@@ -1,16 +1,31 @@
-## Hi there 👋
+amandatorrez
+# Amanda's Professional Portfolio
 
-<!--
-**amandatorrez/amandatorrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains my professional portfolio for **IS 3060**. The website showcases my background as an Accounting student at the University of Utah, my skills, education, projects, and career interests.
 
-Here are some ideas to get you started:
+## Technologies Used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* GitHub
+* GitHub Pages
+
+## Website
+
+Visit my portfolio here:
+
+**https://amandatorrez.github.io/amandatorrez/**
+
+## About This Project
+
+I created this portfolio to demonstrate my ability to design and develop a professional website while showcasing my academic and professional skills.
+
+The website includes:
+
+* About Me
+* Education
+* Skills
+* Projects
+* Career Goals
+* Contact Information
+
